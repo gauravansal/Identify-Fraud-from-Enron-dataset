@@ -1,3 +1,5 @@
+### Identify Fraud from Enron dataset
+
 #### Project Overview
 In 2000, Enron was one of the largest companies in the United States. By 2002, it had collapsed into bankruptcy due to widespread corporate fraud. In the resulting Federal investigation, a significant amount of typically confidential information entered into the public record, including tens of thousands of emails and detailed financial data for top executives. In this project, you will play detective, and put your new skills to use by building a person of interest identifier based on financial and email data made public as a result of the Enron scandal. To assist you in your detective work, we've combined this data with a hand-generated list of persons of interest in the fraud case, which means individuals who were indicted, reached a settlement or plea deal with the government, or testified in exchange for prosecution immunity.
 
@@ -41,6 +43,7 @@ n addition, we advise that you keep notes as you work through the project. As pa
 2. I have used jupyter notebook for my analysis. Please follow through the jupyter notebook and its html file to better understand the flow and thoughts behind the analysis.
 3. poi_id.py has been generated from jupyter notebook. poi_id.py script may take upto 5-7 min. to complete.
 4. Please keep the jupyter notebook as well as poi_id.py script in the location as tester.py file.
+5. If Github viewer fails to load .ipynb file, please follow the link at Jupyter Notebook viewer for the complete analysis - https://nbviewer.jupyter.org/github/gauravansal/Identify-Fraud-from-Enron-dataset/blob/master/Identify%20Fraud%20from%20Enron%20Email.ipynb
 
 #### Additional  Note - 
 Checkout this link for [Class Imbalance Problem](http://www.chioka.in/class-imbalance-problem/).
